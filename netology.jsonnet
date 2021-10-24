@@ -1,4 +1,4 @@
-Орлов Сергей
+ Орлов Сергей
 
 local k = (import 'ksonnet-util/kausal.libsonnet');
 
